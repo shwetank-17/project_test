@@ -3,7 +3,7 @@
 #include "VESC_interface.h"
 #include <math.h>
 #include <stdio.h>
-
+xyz
 struct simParameters param;
 //struct mc_values VESC;
 float pipefds[2];
